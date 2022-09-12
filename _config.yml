@@ -3,6 +3,10 @@ markdown: kramdown
 title: Lendlag AS
 description: Lendlag Landing Page
 
+author:
+  name: Lendlag
+  email: contact@lendlag.no
+
 theme: minima
 
 # Minima: show excerpts in the frontpage
@@ -10,6 +14,8 @@ show_excerpts: false
 
 minima:
   date_format: "%Y-%m-%d"
+  
+  
 
 # Minima: custom header links
 header_pages: []
