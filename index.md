@@ -1,8 +1,6 @@
-## Lendlag
+## Our vision
 
-## The vision
-
-Technology is all about imagining what can be instead of what is. In an ever-changing world no solution is final; instead it evolves together with the ecosystem in which it exists. Any healthy ecosystem evolves over time -- whether slow or quick -- it is under constant change. A good solution to is either adaptable or quickly obsolete.
+Technology is all about imagining what can be instead of what is. In an ever-changing world no solution is final; instead it evolves together with the ecosystem in which it exists. Any healthy ecosystem evolves over time -- whether slow or quick -- it is under constant change. A good solution must be adaptable or see itself become obsolete.
 
 ## About Us
 
