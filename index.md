@@ -1,7 +1,7 @@
 ---
 permalink: /
-layout: page
-title: Lendlag AS
+layout: default
+title: Home
 ---
 
 ## Our vision
