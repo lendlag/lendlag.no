@@ -4,7 +4,7 @@ layout: default
 title: Home
 ---
 
-<p align="center">
+<p style="float:right">
 <img src="./assets/images/00150.png" width="256px">
 </p>
 
@@ -12,7 +12,10 @@ title: Home
 
 Technology is all about imagining what can be instead of what is. In an ever-changing world no solution is final; instead it evolves together with the ecosystem in which it exists. Any healthy ecosystem evolves over time -- the speed may vary, but it is under constant change. Because of this, solutions must be flexible and adaptable to changing requirements.
 
-<p align="center"><img src="./assets/images/00272.png" width="256px"></p>
+<span style="clear: both">&nbsp;</span>
+
+
+<p style="float: left"><img src="./assets/images/00272.png" width="256px"></p>
 
 ## About Us
 
@@ -24,7 +27,8 @@ From small-scale integration between local devices to large-scale systems that r
 
 We have over 10 years of expertise working with global, Cloud-scale distributed systems.
 
-<p align="center"><img src="./assets/images/00252.png" width="256px"></p>
+<p style="float: right"><img src="./assets/images/00252.png" width="256px"></p>
+<span style="clear: both">&nbsp;</span>
 
 ## Where we are
 
