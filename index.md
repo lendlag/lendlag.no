@@ -4,6 +4,8 @@ layout: default
 title: Home
 ---
 
+<img src="./assets/images/00150.png">
+
 ## Our vision
 
 Technology is all about imagining what can be instead of what is. In an ever-changing world no solution is final; instead it evolves together with the ecosystem in which it exists. Any healthy ecosystem evolves over time -- the speed may vary, but it is under constant change. Because of this, solutions must be flexible and adaptable to changing requirements.
