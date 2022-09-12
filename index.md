@@ -4,7 +4,9 @@ layout: default
 title: Home
 ---
 
+<p align="center">
 <img src="./assets/images/00150.png">
+</p>
 
 ## Our vision
 
@@ -24,3 +26,5 @@ We have over 10 years of expertise working with global, Cloud-scale distributed 
 ## Where we are
 
 We operate out of beautiful Voss, Norway and deploy world-wide.
+
+<iframe jsname="L5Fo6c" class="YMEQtf" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-modals" frameborder="0" aria-label="Map, Vossevangen" src="https://maps-api-ssl.google.com/maps?hl=en&amp;ll=60.626697,6.417059&amp;output=embed&amp;q=Vossevangen,+Norway+(Vossevangen)&amp;z=13" allowfullscreen=""></iframe>
