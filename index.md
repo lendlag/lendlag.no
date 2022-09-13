@@ -25,12 +25,14 @@ From small-scale integration between local devices to large-scale systems that r
 
 We have over 10 years of expertise working with global, Cloud-scale distributed systems.
 
-<p style="float: right: padding: 20px"><img src="./assets/images/00252.png" width="256px"></p>
+
 
 ## Where we are
 
 We operate out of beautiful Voss, Norway and deploy world-wide.
 
-<p style="clear: both">&nbsp;</p>
-
 <iframe style="width: 100%" jsname="L5Fo6c" class="YMEQtf" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-modals" frameborder="0" aria-label="Map, Vossevangen" src="https://maps-api-ssl.google.com/maps?hl=en&amp;ll=60.626697,6.417059&amp;output=embed&amp;q=Vossevangen,+Norway+(Vossevangen)&amp;z=13" allowfullscreen=""></iframe>
+
+
+<p align="center"><img src="./assets/images/00252.png" width="256px"></p>
+<p style="clear: both">&nbsp;</p>
