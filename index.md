@@ -11,7 +11,7 @@ title: Home
 
 ## Our vision
 
-Technology is all about imagining what can be instead of what is. In an ever-changing world no solution is final; instead it evolves together with the ecosystem in which it exists. Any healthy ecosystem evolves over time -- the speed may vary, but it is under constant change. Because of this, solutions must be flexible and adaptable to changing requirements.
+Technology and innovation is about imagining what can be instead of what is. All healthy ecosystems evolve over time -- the speed may vary, but they are under constant change by forces from both outside and inside. In this ever-changing world no solution is ever truly final and must always be flexible and adaptable to quickly chaging and refined requirements.
 
 <p style="clear: both">&nbsp;</p>
 
@@ -20,11 +20,11 @@ Technology is all about imagining what can be instead of what is. In an ever-cha
 
 ## About Us
 
-Using best of class technology we design and implement services that evolve alongside the problem in order to stand the test of time.
+Using best of class technology we design and implement services that evolve together with their requirements in order to stand the test of time.
 
-Developing new solutions to serve emerging needs or integrating pre-existing services to unlock their true potential: innovation is never over.
+Developing new solutions to serve emerging needs or integrating pre-existing services to unlock their true potential: everything is a possibility.
 
-From small-scale integration between local devices to large-scale systems that require high efficiency and performance: we got it covered.
+From small-scale integration between local devices to large-scale systems that require high efficiency and performance: that is what we're here for.
 
 We have over 10 years of expertise working with global, Cloud-scale distributed systems.
 
